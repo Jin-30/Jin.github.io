@@ -14,5 +14,3 @@ Jin‘s blog
 https://github.com/Jin-24/Jin.github.io/blob/main/images/WechatIMG2%204.jpeg?raw=true
 
 ![image](https://github.com/Jin-24/Jin.github.io/blob/main/images/WechatIMG2%204.jpeg?raw=true)
-
-[奇绩社区](https://www.toutiao.com/article/7153958100330938910/?log_from=a83906973f3ab_1666111568785)
