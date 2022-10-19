@@ -17,4 +17,4 @@ https://github.com/Jin-24/Jin.github.io/blob/main/images/WechatIMG2%204.jpeg?raw
 
 首先要做到**阶段匹配**。
 
-![阶段匹配](https://via.placeholder.com/15/f03c15/000000?text=+) `阶段匹配`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
